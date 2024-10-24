@@ -97,6 +97,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yeyobitz/Yeyobitz/main/dist/snake.svg" alt="Snake animation" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Yeyobitz/Yeyobitz/output/snake.svg" alt="Snake animation" />
+
 
 ###
