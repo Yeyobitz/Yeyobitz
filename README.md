@@ -10,13 +10,7 @@
 
 ###
 
-<p align="left">ES: Analista programador y director audiovisual, enfocado en la programación full stack y la gameficación. Quiero crear proyectos divertidos que capten el interés de los usuarios.</p>
-
-###
-
-<p align="left">EN: Programmer analyst and audiovisual director, focused on full stack development and gamification. I want to create fun projects that capture users' interest.</p>
-
-###
+<p align="left">Programmer analyst and audiovisual director, focused on full stack development and gamification.</p>
 
 <br clear="both">
 
